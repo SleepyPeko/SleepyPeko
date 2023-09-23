@@ -1,5 +1,4 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=SleepyPeko&color=ff69b4)
 
-![](https://raw.githubusercontent.com/SleepyPeko/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SleepyPeko/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+[![Discord Presence](https://lanyard.cnrad.dev/api/326920625426006016)](https://discord.com/users/326920625426006016)
