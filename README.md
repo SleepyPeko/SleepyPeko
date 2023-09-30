@@ -12,4 +12,4 @@ I'm someone who enjoys discovering and bookmarking interesting GitHub repositori
 
 That's pretty much it! If you have any recommendations or just want to chat about GitHub, don't hesitate to get in touch.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/326920625426006016?idleMessage=:I'm%20Sleeping%20or%20doing%20something%20else...&bg=00000&borderRadius=30px&hideDiscrim=true&hideStatus=true&showDisplayName=false)](https://discord.com/users/326920625426006016)
+[![Discord Presence](https://lanyard.cnrad.dev/api/326920625426006016?idleMessage=I'm%20Sleeping%20or%20doing%20something%20else...&bg=00000&borderRadius=30px&hideDiscrim=true&hideStatus=true&showDisplayName=false)](https://discord.com/users/326920625426006016)
